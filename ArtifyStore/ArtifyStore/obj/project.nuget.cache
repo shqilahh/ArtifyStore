@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+3APd2EwDI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shaqi\\Downloads\\ArtifyStore\\ArtifyStore\\ArtifyStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shaqi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Shaqi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Shaqi\\.nuget\\packages\\npgsql\\10.0.2\\npgsql.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
